@@ -1,0 +1,6 @@
+1 RESERVE VAR AS NUMBER		; Create the VAR variable, which is a number
+2 VAR IS 10			; Set VAR to 10
+3 SHOUT "hi"			; Print "HI!"
+4 DECREMENT VAR			; "VAR = VAR-1" or "VAR--" in C
+5 IF NOT EQUALS VAR 0 JUMP 3	; If var isn't 0 -> go back to 3 (print hi, etc)
+6 END

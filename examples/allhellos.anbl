@@ -1,0 +1,5 @@
+1 SAY "Hello, world."
+2 SHOUT "Hello, world"
+3 WHISPER "Hello, world."
+4 PRINT "Hello, world"
+5 END
